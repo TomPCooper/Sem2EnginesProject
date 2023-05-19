@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Sem2EnginesProject/Content/Paks/Sem2EnginesProject-Windows.utoc
+Windows/Sem2EnginesProject/Content/Paks/Sem2EnginesProject-Windows.ucas
+Windows/Sem2EnginesProject/Content/Paks/Sem2EnginesProject-Windows.pak
+Windows/Sem2EnginesProject/Content/Paks/global.utoc
+Windows/Sem2EnginesProject/Content/Paks/global.ucas
+Windows/Manifest_UFSFiles_Win64.txt
+Windows/Manifest_NonUFSFiles_Win64.txt
+Windows/Engine/Binaries/Win64/tbb.pdb
